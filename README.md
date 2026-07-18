@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Harsh Bansal 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F4C430&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Bansal+%F0%9F%91%8B;ECE+Student+%40+IIITDM+Jabalpur;Building+ERS+Hive+%F0%9F%94%A7;Competitive+Programmer+%2B+Web+Dev" alt="Typing SVG" />
 
 **B.Tech Electronics & Communication Engineering @ IIITDM Jabalpur** · Batch 2025–2029
 
 [![Portfolio](https://img.shields.io/badge/GitHub-Harshbansal06-181717?style=flat-square&logo=github)](https://github.com/Harshbansal06)
-[![Chess.com](https://img.shields.io/badge/Chess.com-harshbansal01-81B64C?style=flat-square&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/harshbansal01)
+
+<img src="https://komarev.com/ghpvc/?username=Harshbansal06&label=Profile+Views&color=F4C430&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -16,7 +17,6 @@
 - 🔭 Building **ERS Hive** — an inventory management platform for my college robotics club (React + Tailwind CSS v4)
 - 🛰️ Worked on **VayuDrishti** at Bharatiya Antariksh Hackathon 2026 — an AI-powered national AQI estimation system using satellite data + CNN-LSTM
 - 🌱 Currently sharpening my Data Structures & Algorithms on Codeforces, bridging from 1000 → 1300 rated problems
-- ♟️ Chess player (~1850 rapid on Chess.com), training for inter-college competition
 - 🤝 Active member of the **Electronics & Robotics Society (ERS)**, IIITDM Jabalpur
 - 💬 Ask me about embedded systems, competitive programming, or web dev with Next.js & Supabase
 
@@ -39,12 +39,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshbansal06&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshbansal06&layout=compact&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbansal06&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshbansal06&hide_border=true" alt="GitHub streak stats" />
 
 </div>
+
+
 
 ---
 
