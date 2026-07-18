@@ -47,16 +47,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [**Hive**](https://github.com/ERS-IIITDMJ/Hive) | Inventory management platform for ERS, IIITDM Jabalpur |
-| [**Splitt**](https://github.com/bsoc-bitbyte/Splitt) | Auto ride-sharing app for IIIT Jabalpur students |
-| [**YDO_26**](https://github.com/bsoc-bitbyte/YDO_26) | IIITDMJ-exclusive matchmaking platform |
-| [**Summer-of-ML-26**](https://github.com/bsoc-bitbyte/Summer-of-ML-26) | Machine learning mentorship program materials |
-
----
 
 <div align="center">
 
