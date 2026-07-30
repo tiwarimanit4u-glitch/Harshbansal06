@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F4C430&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Bansal+%F0%9F%91%8B;ECE+Student+%40+IIITDM+Jabalpur;Building+ERS+Hive+%F0%9F%94%A7;Competitive+Programmer+%2B+Web+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F4C430&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Bansal+%F0%9F%91%8B;ECE+Student+%40+IIITDM+Jabalpur;Built+ERS+Hive+%F0%9F%94%A7;Competitive+Programmer+%2B+Web+Dev" alt="Typing SVG" />
 
 **B.Tech Electronics & Communication Engineering @ IIITDM Jabalpur** · Batch 2025–2029
 
@@ -14,10 +14,9 @@
 
 ### About Me
 
-- 🔭 Building **ERS Hive** — an inventory management platform for my college robotics club (React + Tailwind CSS v4)
+- 🔭 Contributed in **ERS Hive** — an inventory management platform for my college robotics club (React + Tailwind CSS v4)
 - 🛰️ Worked on **VayuDrishti** at Bharatiya Antariksh Hackathon 2026 — an AI-powered national AQI estimation system using satellite data + CNN-LSTM
-- 🌱 Currently sharpening my Data Structures & Algorithms on Codeforces, bridging from 1000 → 1300 rated problems
-- 🤝 Active member of the **Electronics & Robotics Society (ERS)**, IIITDM Jabalpur
+- 🌱 Currently sharpening my Data Structures & Algorithms on Leetcode
 - 💬 Ask me about embedded systems, competitive programming, or web dev with Next.js & Supabase
 
 ---
